@@ -1,0 +1,12 @@
+#+AUTHOR:	Cristhian Huertos
+#+EMAIL:	hi@mizhac.me
+#+STARTUP:	content
+#+STARTUP:      indent
+
+* 1. Una breve descripción
+
+Estos archivos son parte de mi primera incursión en entornos Linux. Incluyen configuraciones del terminal, mpd, ncmpcpp y unos excelentes colores para UXrvt.
+
+** Características:
+- Terminal con modificación del template Solaris
+- ZSH con el theme YS modificado
